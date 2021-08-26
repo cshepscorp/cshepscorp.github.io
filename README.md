@@ -1,9 +1,6 @@
-# cshepscorp.github.io
-VC2 activities 1 section 5 Github 
+# cshepscorp's personal github page
 
 
-# this is my main header
-
-* this text should be italicized
+* VC2 activities 1 section 5 Github 
 
 ** bolded text
