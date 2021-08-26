@@ -11,3 +11,5 @@ __this text should also be bold__
 _also italicized text_
 
 *italicized and **bolded** text*
+
+__I added this text using the _terminal_ editor using the _nano_ command__
